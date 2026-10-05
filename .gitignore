@@ -1,0 +1,11 @@
+# Local secrets
+api/config.local.php
+
+# Runtime logs / state
+api/*.log
+api/retried_success.json
+
+# Backups / temp
+*.bak
+*.tmp
+.DS_Store
